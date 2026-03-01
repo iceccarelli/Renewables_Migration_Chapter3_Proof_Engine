@@ -1,0 +1,7 @@
+metric,value,unit,source
+cumulative_eeg_transfer,580,€B,Chapter 3
+crowdfunding_efficiency_eta_cf,0.32,GW/€B,Chapter 3
+negative_price_hours_2025,573,hours,Chapter 3
+redispatch_costs_2025,2.9,€B,Chapter 1 (context for Chapter 3)
+solar_capacity_gw,117,GW,Chapter 3
+wind_capacity_gw,78,GW,Chapter 3
