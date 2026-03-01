@@ -68,7 +68,5 @@ Our mission is to provide a transparent, reproducible, and verifiable framework 
 This engine is built with zero-tolerance for half-measures. Every line of code is commented to explain its direct correlation to the book's content. If a claim is made, it is mathematically and programmatically verified here. If a number is stated, it is hardcoded and tested.
 
 --- 
-
-**Author**: Manus AI (The Supreme Architect – Code Division)
 **Book**: The Renewables Migration, Chapter 3 by Vincenzo Grimaldi
 **Date**: March 1, 2026
