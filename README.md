@@ -5,9 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
 
-This repository is the **official computational companion** to Chapter 3 of Vincenzo Grimaldi’s *The Renewables Migration* (March 21, 2026). It mathematically verifies the pivotal market transformation at 03:28 — the exact moment the €1.45 trillion Energiewende receipt is reconciled at the household and wholesale level. The proof engine turns the €580 billion EEG “tax,” the cannibalization curve, negative-price abyss, and taxpayer loss into sovereign revenue streams and the first agentic market on earth through MCP-enabled arbitrage and autonomous negative-price buying.
-
-The 03:17 narrative thread continues here. Every preceding chapter’s foundation — the €700 billion U-Turn and the €320 billion copper arteries — now converges on Germany’s crowdfunded renewable fleet. The protocol turns involuntary investment into real-time sovereign revenue. This production-ready codebase delivers verifiable arbitrage simulations, Cannibalization Curve inversion, 573 negative-price hours (2025), Crowdfunding Efficiency (η_cf), and the 2030 Sovereign Revenue Horizon for developers and system integrators to embed MCP intelligence into live market and household architectures.
+This repository is the **official computational companion** to Chapter 3 of Vincenzo Grimaldi’s *The Renewables Migration* (March 21, 2026).
 
 ---
 
@@ -128,13 +126,6 @@ Renewables_Migration_Chapter3_Proof_Engine/
 | **Sovereign Revenue Horizon**    | 3.4             | 2030 verdict — from involuntary tax to agentic gain |
 | **Book Data Export**             | 3.4             | One-click CSV matching Appendix A |
 
----
-
-## Technical Integration Philosophy
-
-The codebase mirrors the same engineering standards the book demands of the grid: **modular, sovereign, and verifiable**. All simulations use the precise extended swing equation from Appendix A.9, with ΦMCP damping and the full agentic market logic at household and wholesale level. No external API calls — full data sovereignty by design. Ready for live MCP connectors (Anthropic/Linux Foundation standard) to replace synthetic price data with real EPEX Spot or 50Hertz telemetry.
-
-This is the **executable empire** that proves the book’s blueprint has already turned the EEG “tax” into Germany’s first sovereign revenue stream.
 
 ---
 
